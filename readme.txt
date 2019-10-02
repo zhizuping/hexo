@@ -12,4 +12,7 @@ git下载代码：git clone ssh
 　　git commit -m "readme" //把文件提交到仓库
 　　git remote add origin git@github.com:zhizuping/hexo.git//关联远程仓库
 　　git push -u origin master //把本地库的所有内容推送到远程库上
+master是远端分支，yujianping_1002是新建的分支，以后push到自己新建的分支。
 学习各种编程：参考廖雪峰，菜鸟教程
+
+hexo教程：https://www.cnblogs.com/wsmrzx/p/9439284.html
